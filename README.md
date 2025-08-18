@@ -1,7 +1,7 @@
 ## <img src="https://media.tenor.com/-FAyspcKxdAAAAAM/brown-line.gif" width="25px"> Hi! My name is Ernest!🙇‍♂️ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ernestl123.ernestl123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernest-lin-92174520a)
 [![Patreon](https://img.shields.io/badge/Patreon-D14836.svg?&style=for-the-badge&logo=patreon&logoColor=black)](https://www.patreon.com/mafiabot)
->🏫 I'm a student at University of California San Diego studying Computer Science and minoring in Cognitive Science!
+>🏫 I'm a recent graduate at University of California San Diego with B.S. in Computer Science and minor in Cognitive Science!
 <img src="https://github-readme-stats.vercel.app/api?username=ernestl123&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" align="right"/>
 
 💻 I'm passionate about software engineering and machine learning! One of my proudest projects is a SMS Discord bot called [MafiaBot](https://top.gg/bot/511786918783090688) that hosts mafia games in text channels!
@@ -31,5 +31,3 @@
 ![Unity](https://img.icons8.com/color/30/unity-5.png)
 
 ---
-
-📕 I'm currently focusing on gaining more experience with JavaScript and HTML, and also developing some more Discord bots!
