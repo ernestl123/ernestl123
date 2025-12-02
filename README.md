@@ -13,7 +13,7 @@
 ### Tools I use!🛠️
 
 ![Python](https://img.icons8.com/color/30/python.png)
-![Java](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Java_logo_icon_2014.svg/1200px-Java_logo_icon_2014.svg.png)
+![Java](/pictures/icons8-java.png)
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
